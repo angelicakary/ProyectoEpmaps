@@ -61,8 +61,6 @@
 						<div class="overlay"></div>
 						<div class="content text">
 							<h1 class="clearfix"><img src="assets/img/lec.jpg" width="510" height="420" ></h1>
-
-							
 							<p></p>
 						</div>
 					</div>
