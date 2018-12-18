@@ -4,10 +4,8 @@
 
 if(!empty($_POST)){
 
-	$nombre1 		= $_POST["nombre1"];
-	$nombre2 		= $_POST["nombre2"];
-	$apellido1 		= $_POST["apellido1"];
-	$apellido2 		= $_POST["apellido2"];
+	$nombres 		= $_POST["nombre1"];
+	$apellidos 		= $_POST["apellidos"];
 	$cedula			= $_POST["cedula"];
 	$telefono 		= $_POST["telefono"];
 	$celular 		= $_POST["celular"];
