@@ -18,7 +18,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700" rel="stylesheet">
 	<!-- ICONS -->
 	<link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-icon.png">
-	<link rel="icon" type="image/png" sizes="96x96" href="assets/img/logo2.PNG">
+	<link rel="icon" type="image/png" sizes="96x96" href="assets/img/logo2.jpg">
 </head>
 
 <body>
@@ -41,7 +41,7 @@
 								</div>
 								<div class="form-group">
 									<label for="signin-password" class="control-label sr-only">contraseña</label>
-									<input type="password" name="contraseña" class="form-control" id="signin-password"  placeholder="Contraseña">
+									<input type="password" name="password" class="form-control" id="signin-password"  placeholder="Contraseña">
 								</div>
 								 <div class="form-group clearfix">
 									<label class="fancy-checkbox element-left">
